@@ -1,0 +1,1 @@
+@py.exe C:\Users\j19275ht\PythonScripts\lucky.py %*
